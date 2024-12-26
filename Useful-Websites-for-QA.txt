@@ -1,0 +1,19 @@
+-- Maven dependency for selenium
+
+https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.23.0
+
+-- Useful pluggins for intelliJ
+
+odingnepalweb.com/popup-cookies-consent-box-html-css-javascript/
+
+-- Swagger labs for login
+
+https://www.saucedemo.com/
+
+-- Orange HRM
+
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+-- DemoQA for testing elements
+
+https://demoqa.com/
